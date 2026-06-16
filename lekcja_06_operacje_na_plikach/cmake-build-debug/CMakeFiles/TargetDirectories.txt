@@ -1,0 +1,3 @@
+C:/Users/Facior/Desktop/prace/lekcja_06_operacje_na_plikach/cmake-build-debug/CMakeFiles/lekcja_06_operacje_na_plikach.dir
+C:/Users/Facior/Desktop/prace/lekcja_06_operacje_na_plikach/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Facior/Desktop/prace/lekcja_06_operacje_na_plikach/cmake-build-debug/CMakeFiles/rebuild_cache.dir

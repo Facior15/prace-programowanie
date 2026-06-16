@@ -1,0 +1,3 @@
+C:/Users/Facior/Desktop/prace/lekcja_02_kalkulator_funkcje/cmake-build-debug/CMakeFiles/lekcja_02_kalkulator_funkcje.dir
+C:/Users/Facior/Desktop/prace/lekcja_02_kalkulator_funkcje/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Facior/Desktop/prace/lekcja_02_kalkulator_funkcje/cmake-build-debug/CMakeFiles/rebuild_cache.dir

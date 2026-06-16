@@ -1,0 +1,3 @@
+C:/Users/Facior/Desktop/prace/lekcja_01_tablice_wskazniki/cmake-build-debug/CMakeFiles/lekcja_01_tablice_wskazniki.dir
+C:/Users/Facior/Desktop/prace/lekcja_01_tablice_wskazniki/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Facior/Desktop/prace/lekcja_01_tablice_wskazniki/cmake-build-debug/CMakeFiles/rebuild_cache.dir

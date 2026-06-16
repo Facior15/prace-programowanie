@@ -1,0 +1,3 @@
+C:/Users/Facior/Desktop/prace/lekcja_04_lancuchy_znakow/cmake-build-debug/CMakeFiles/lekcja_04_lancuchy_znakow.dir
+C:/Users/Facior/Desktop/prace/lekcja_04_lancuchy_znakow/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Facior/Desktop/prace/lekcja_04_lancuchy_znakow/cmake-build-debug/CMakeFiles/rebuild_cache.dir
